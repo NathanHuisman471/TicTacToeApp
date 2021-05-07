@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToeApp</string>
+
+    <string name="homeTitle">Nathans TicTacToe App</string>
+    <string name="playButton">Play</string>
+
+    <string name="playerSetupTitle">Enter Your Names</string>
+    <string name="player1Label">Player 1</string>
+    <string name="player2Label">Player 2</string>
+    <string name="submitButtonString">Submit Names</string>
+    <string name="nameHint">Enter Your Name</string>
+
+    <string name="playAgainString">Play Again?</string>
+    <string name="homeButtonString">Home</string>
+
+</resources>
